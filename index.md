@@ -19,11 +19,8 @@
 
 ### Business Intelligence
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Dashboard for daily monitoring of the operational performance of a FMCG retail chain](/sample_page)
+
 
 ---
 ### Excel for business management
