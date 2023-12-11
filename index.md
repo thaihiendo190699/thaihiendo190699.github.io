@@ -19,7 +19,7 @@
 
 ### Business Intelligence
 
-[Dashboard for daily monitoring of the operational performance of a FMCG retail chain](/sample_page.md)
+[Dashboard for daily monitoring of the operational performance of a FMCG retail chain](sample_page.md)
 
 
 ---
