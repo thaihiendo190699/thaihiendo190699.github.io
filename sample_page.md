@@ -1,31 +1,40 @@
-## This can be your internal website page / project page
+## Building dashboard for daily monitoring of the operational performance of a FMCG retail chain
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** 
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+Context: The Operational Department needs to monitor daily data on the operation throughout its company system to ensure that over 1700 retail stores have adequate stocks to serve customers. In addition, they must take action as quickly as possible to solve any arisen problems, usually within a day or several days.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Problem: There are too many separate reports from the company system, completely in Excel sheet format, which causes difficulty and time-wasting for the employees in getting relevant data to control the complex operation. As a result, problem-solving actions are often delayed or not well-informed by data, and the workload of employees is often overloaded.
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+Solution: Building an automatic dashboard that has all relevant information to boost work efficiency for the whole team.
 
-### 2. Assess assumptions on which statistical inference will be based
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+### 1. Dashboard requirements
 
-### 3. Support the selection of appropriate statistical tools and techniques
+Project Requirements and Strategy Document.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### 4. Provide a basis for further data collection through surveys or experiments
+### 2. Bulding automatic data flow from scratch:
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+#### 2.1 Auto download data form company report systems
+
+As company policy about data security, data analysts do not have permissions to query data from the database directly, so I need to download Excel-formated data separately from the system built by IT department.
+
+I used selenium library in Python to execute the tasks and Task Scheduler to automate them on a daily basis.
+
+Python code sample:
+
+#### 2.2. Processing data in Python
+
+- Chuyển đổi data sang dạng feather để dễ dàng xử lý về sau
+- Xử lý dữ liệu
++ clean, transform and map data, aggregate.
++ export data set as parquet file
+
+Python code sample
+
+#### 2.3. Building dashboard in Power BI
+
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
