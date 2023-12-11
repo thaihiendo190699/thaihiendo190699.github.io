@@ -9,7 +9,7 @@ Problem: There are too many separate reports from the company system, completely
 Solution: Building an automatic dashboard that has all relevant information to boost work efficiency for the whole team.
 
 
-### 1. Dashboard requirements
+### 1. Requirements
 
 Project Requirements and Strategy Document.
 
