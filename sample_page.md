@@ -11,7 +11,7 @@ Solution: Building an automatic dashboard that has all relevant information to b
 
 ### 1. Data preparation:
 
-#### 1.1 Data downloading automatically form company report systems by Python
+#### 1.1 Data downloading automatically from company report systems by Python
 
 As company policy about data security, data analysts do not have permissions to query data from the database directly, so I need to download Excel-formated data separately from the system built by IT department.
 
