@@ -17,7 +17,7 @@ As company policy about data security, data analysts do not have permissions to 
 
 I used selenium library in Python to execute the tasks and Task Scheduler to automate them on a daily basis.
 
-Python code sample: (POS-downloader-HIE.ipynb)
+Python code sample: ([POS-downloader-HIE.ipynb](https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/POS-downloader-HIE.ipynb?short_path=d160d63))
 
 #### 1.2. Processing data in Python
 
