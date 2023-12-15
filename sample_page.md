@@ -36,7 +36,7 @@ The sample of my dashboard:
 
 1) Key metric: Lostsale (how many percentage of goods are lacking compared to demand)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/BI1.png?raw=true"/>
 
 2) Inventory change (how inventory is imported and exported at the stores)
 
