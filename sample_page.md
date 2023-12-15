@@ -9,7 +9,7 @@ Problem: There are too many separate reports from the company system, completely
 Solution: Building an automatic dashboard that has all relevant information to boost work efficiency for the whole team.
 
 
-### 1. Data collection:
+### 1. Data preparation:
 
 #### 1.1 Auto download data form company report systems
 
