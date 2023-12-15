@@ -30,17 +30,21 @@ I used selenium library in Python to execute the tasks and Task Scheduler to aut
 
 #### 2. Dashboard building by Power BI
 
-I used Power BI to create the dashboard and share it for the department by Power BI service.
+I used Power BI to create a multiple-sheet dashboard and share it for the department by Power BI service.
 
 The sample of my dashboard: 
 
-1) Key metric: Lostsale (how many percentage of goods are lacking compared to demand)
+1) Key metric - Lostsale (how many percentage of goods are lacking compared to demand)
 
 <img src="https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/BI1.png?raw=true"/>
 
 2) Inventory change (how inventory is imported and exported at the stores)
 
-3) Cause of lost sales detecting (detect causes that can create high lost sales index)
+<img src="https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/BI2.png?raw=true"/>
+
+4) Cause of lost sales detecting (detect causes that can create high lost sales index)
+
+<img src="https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/BI3.png?raw=true"/>
 
 For example, from this report, it can be seen that a small group of stores belonging to a specific hub has a high lost sales rate (7.5%). The reason can be seen that in stage 4 in the Funnel chart, the quantity of goods is significantly reduced compared to the previous stage (almost half) and is smaller than the minimum demand (the first stage). Therefore, the person in charge will review the conditions in this step and take action as quickly as possible.
 
