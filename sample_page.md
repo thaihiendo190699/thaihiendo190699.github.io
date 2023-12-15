@@ -26,7 +26,7 @@ Python code sample: ([POS-downloader-HIE.ipynb](https://github.com/thaihiendo190
 + Cleaned, transformed, mapped, aggregated data
 + Exported the dataset as a parquet file to import to Power BI.
 
-Python code sample
+Python code sample: (https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/code_BI.ipynb)
 
 #### 2. Building a dashboard in Power BI
 
