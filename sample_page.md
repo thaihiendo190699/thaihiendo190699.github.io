@@ -17,7 +17,7 @@ As company policy about data security, data analysts do not have permissions to 
 
 I used selenium library in Python to execute the tasks and Task Scheduler to automate them on a daily basis.
 
-(Python code sample](https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/POS-downloader-HIE.ipynb?short_path=d160d63))
+[Python code sample](https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/POS-downloader-HIE.ipynb?short_path=d160d63)
 
 #### 1.2. Processing data in Python
 
@@ -26,7 +26,7 @@ I used selenium library in Python to execute the tasks and Task Scheduler to aut
 + Cleaned, transformed, mapped, aggregated data
 + Exported the dataset as a parquet file to import to Power BI.
 
-([Python code sample](https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/code_BI.ipynb))
+[Python code sample](https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/code_BI.ipynb)
 
 #### 2. Building a dashboard in Power BI
 
