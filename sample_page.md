@@ -9,7 +9,7 @@ Problem: There are too many separate reports from the company system, completely
 Solution: Building an automatic dashboard that has all relevant information to boost work efficiency for the whole team.
 
 
-### 1. Bulding automatic data flow:
+### 1. Data flow:
 
 #### 1.1 Auto download data form company report systems
 
@@ -19,7 +19,7 @@ I used selenium library in Python to execute the tasks and Task Scheduler to aut
 
 [Python code sample](https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/POS-downloader-HIE.ipynb?short_path=d160d63)
 
-#### 1.2. Processing data in Python
+#### 1.2. Data processing
 
 - Converted data to feather form for easy processing.
 - Processed data
@@ -28,7 +28,7 @@ I used selenium library in Python to execute the tasks and Task Scheduler to aut
 
 [Python code sample](https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/code_BI.ipynb)
 
-#### 2. Building a dashboard in Power BI
+#### 2. Dashboard
 
 I used Power BI to create the dashboard and share it for the department by Power BI service.
 
