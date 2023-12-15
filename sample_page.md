@@ -11,7 +11,7 @@ Solution: Building an automatic dashboard that has all relevant information to b
 
 ### 1. Data preparation:
 
-#### 1.1 Auto download data form company report systems
+#### 1.1 Data downloading automatically form company report systems by Python
 
 As company policy about data security, data analysts do not have permissions to query data from the database directly, so I need to download Excel-formated data separately from the system built by IT department.
 
@@ -19,7 +19,7 @@ I used selenium library in Python to execute the tasks and Task Scheduler to aut
 
 [Python code sample](https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/POS-downloader-HIE.ipynb?short_path=d160d63)
 
-#### 1.2. Data processing
+#### 1.2. Data processing by Python
 
 - Converted data to feather form for easy processing.
 - Processed data
@@ -28,7 +28,7 @@ I used selenium library in Python to execute the tasks and Task Scheduler to aut
 
 [Python code sample](https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/code_BI.ipynb)
 
-#### 2. Dashboard
+#### 2. Dashboard building by Power BI
 
 I used Power BI to create the dashboard and share it for the department by Power BI service.
 
