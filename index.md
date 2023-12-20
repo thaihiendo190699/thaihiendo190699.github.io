@@ -4,7 +4,7 @@
 
 ### Data Analysis
 
-[FMCG Promotion Analysis](https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/project_promotion.md)
+[FMCG Promotion Analysis](project_promotion.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
