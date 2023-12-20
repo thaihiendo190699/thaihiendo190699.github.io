@@ -30,7 +30,7 @@ Dataset has all relevant information describe the promotions (time, type, place 
 ### 2. Sample of the reports and some of the insights:
 
 **Question 1: What features do successful promotions have in common?**
-7 days period
+https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/data.2023-1.png
 
 **Question 2: For a specific item/type of item/area, how should they run the promotion?**
 Brand X should be "discount about 30% - 35%"
