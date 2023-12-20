@@ -6,12 +6,11 @@ Context: The Toothpaste Category Department tried to boost their sales through p
 
 Problem: They realized there aren't always good promotions and the one can be good or bad in different stores. They want to know more details about their promotion results and find the best practices to focus their resources on as well as confirm by data some of their assumptions.
 
-** - Question 1: What features do successful promotions have in common?**
+**Question 1: What features do successful promotions have in common?**
 
-** - Question 2: For a specific item/type of item/area, how should they run the promotion?**
+**Question 2: For a specific item/type of item/area, how should they run the promotion?**
 
-** - Question 3: How promotion of an item/ a group of items affect sales of the whole category?**
-
+**Question 3: How promotion of an item/ a group of items affect sales of the whole category?**
 
 ### 1. Analytical approach
 
