@@ -10,7 +10,7 @@ Problem: They realized there aren't always good promotions and the one can be go
 
 **Question 2: For a specific item/type of item/area, how should they run the promotion?**
 
-**Question 3: How promotion of an item/ a group of items affect sales of the whole category?**
+**Question 3: How about the period of after promotions?**
 
 ### 1. Analytical approach
 
@@ -35,6 +35,6 @@ Dataset has all relevant information describe the promotions (time, type, place 
 **Question 2: For a specific item/type of item/area, how should they run the promotion?**
 <img src="https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/data.2023-2.png?raw=true"/>
 
-**Question 3: How promotion of an item/ a group of items affect sales of the whole category?**
+**Question 3: How about the period of after promotions?**
 <img src="https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/data.2023-3.png?raw=true"/>
 
