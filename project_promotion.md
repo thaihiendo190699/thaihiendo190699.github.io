@@ -20,7 +20,7 @@ Problem: They realized there aren't always good promotions and the one can be go
 - Drawback: some other factors affect sales during the promotion period. Based on stakeholders' expertise, some promotions which were carried out in holidays, and special events had been excluded from the analysis.
 
 **3. Data scope:** 300 promotions in 1 year of 60 toothpaste products throughout 1700 retail stores.
-Dataset has all relevant information describe the promotions (time, type, place of display, discount rate, discount value), their result (the rate of comparation of sales between before and after the period), items (types, sizes, brand, price segment), store (place, size of store, income level of surrounding residents).
+Dataset has relevant information describing the promotions (time, type, place of display, discount rate, discount value), their result (the rate of comparation of sales between before and after the period - score), items (types, sizes, brand, price segment), store (place, size of store, income level of surrounding residents).
 - For categorical data, I encoded it by one-hot to be compatible with K-mean approach.
 
 **4. Tools:** clean, process, apply k-mean by Python, visualize by Power BI 
