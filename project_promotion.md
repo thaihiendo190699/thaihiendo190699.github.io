@@ -33,7 +33,7 @@ Dataset has all relevant information describe the promotions (time, type, place 
 <img src="https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/data.2023-1.png?raw=true"/>
 
 **Question 2: For a specific item/type of item/area, how should they run the promotion?**
-<img src="https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/data.2023-2.png?raw=true"/>
+<img src="https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/data.2023-22.png?raw=true"/>
 
 **Question 3: How about the period of after promotions?**
 <img src="https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/data.2023-3.png?raw=true"/>
