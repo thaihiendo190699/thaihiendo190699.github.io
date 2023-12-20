@@ -30,13 +30,11 @@ Dataset has all relevant information describe the promotions (time, type, place 
 ### 2. Sample of the reports and some of the insights:
 
 **Question 1: What features do successful promotions have in common?**
-https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/data.2023-1.png
+<img src="https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/data.2023-1.png?raw=true"/>
 
 **Question 2: For a specific item/type of item/area, how should they run the promotion?**
-Brand X should be "discount about 30% - 35%"
-Brand Y should be "buy 2 get 1 free", customers seem willing to stock Y products whenever they are on sale, different from brand X.
+<img src="https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/data.2023-2.png?raw=true"/>
 
 **Question 3: How promotion of an item/ a group of items affect sales of the whole category?**
+<img src="https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/data.2023-3.png?raw=true"/>
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
