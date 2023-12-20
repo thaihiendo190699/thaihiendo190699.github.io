@@ -16,7 +16,7 @@ Problem: They realized there aren't always good promotions and the one can be go
 
 **1. Method of analysis:** descriptive analysis, using K-mean to cluster promotions based on their results. Each datapoint for clustering is a promotion for a specific product in a store.
 
-**2. Benchmark:** a successfull promotion program need to achieve at least 120% sales compared to the normal sales within the last 30 days and no loss of profits.
+**2. Benchmark:** a successful promotion program need to achieve at least 120% sales compared to the normal sales within the last 30 days and no loss of profits.
 - Drawback: some other factors affect sales during the promotion period. Based on stakeholders' expertise, some promotions which were carried out in holidays, and special events had been excluded from the analysis.
 
 **3. Data scope:** 300 promotions in 1 year of 60 toothpaste products throughout 1700 retail stores.
