@@ -4,17 +4,20 @@
 
 ### Data Analysis
 
-[FMCG Promotion Analysis](project_promotion.md)
+[FMCG Promotion](project_promotion.md)
 
 
 ---
-[Restaurant Operations Analysis](pizza_page.md)
+[Restaurant Operations](pizza_page.md)
 
 
 ---
-[Web Traffic Analysis](traffic_page.md)
+[Web Traffic](traffic_page.md)
+
 
 ---
+[Behavior Of Customers Using Television Services](traffic_page.md)
+
 
 ### Business Intelligence
 
@@ -22,9 +25,10 @@
 
 
 ---
-### Excel for business management
+### Other projects
 
+[A/B Testing]()
 
+[SQL in Bigquery practice]
 
----
-
+[Excel for working hours management]
