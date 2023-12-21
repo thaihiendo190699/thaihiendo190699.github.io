@@ -12,7 +12,7 @@
 
 
 ---
-[Traffic Web Analysis](traffic_page.md)
+[Web Traffic Analysis](traffic_page.md)
 
 ---
 
