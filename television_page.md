@@ -36,7 +36,16 @@ for file_name in file_list:
 data = pd.concat(data_frames, ignore_index=True)"
 
 ### 2. Dashboard
-<img src="https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/BI3.png?raw=true"/>
 
+<img src="https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/FPT-1.png?raw=true"/>
 
+<img src="https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/FPT-2.png?raw=true"/>
+
+<img src="https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/FPT-3.png?raw=true"/>
+
+<img src="https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/FPT-4.png?raw=true"/>
+
+<img src="https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/FPT-5.png?raw=true"/>
+
+<img src="https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/FPT-6.png?raw=true"/>
 
