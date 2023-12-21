@@ -14,7 +14,7 @@ Questions:
 
 ### 1. Dataset
 
-Data
+[Data](https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/Plato's%20Pizza%20Orders%20Analysis.zip)
 
 - This dataset contains 4 tables in CSV format
 - The Orders table contains the date & time that all table orders were placed
