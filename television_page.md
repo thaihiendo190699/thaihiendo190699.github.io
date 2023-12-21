@@ -1,16 +1,14 @@
-##  Plato's Pizza Operation Analysis
+##  Behavior Of Customers Using Television Service Analysis
 
 **Project description:** 
 
 This project is to analyze the behavior of service usage characteristics of users who have canceled their contracts for television services and suggest recommendations.
 
-
 ### 1. Dataset
 
-[Data](https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/MWG-Data-Q%26A.xlsx)
+[Data](https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/DataSampleTest.zip)
 
 This dataset is in log. I have used Python to parse them into pandas data frame by the following code script:
-
 
 # Folder path to log files
 folder_path = r'C:\Users\ASUS\Desktop\FPT test\DataSampleTest'
@@ -39,6 +37,6 @@ data = pd.concat(data_frames, ignore_index=True)
 
 ### 2. Dashboard
 
-<img src="https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/Maven_Pizza.jpg?raw=true"/>
+(FPT.pdf)
 
 
