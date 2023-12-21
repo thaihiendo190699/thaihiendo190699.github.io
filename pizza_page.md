@@ -24,6 +24,7 @@ Questions:
 
 ### 2. Dashboard
 
-https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/Maven_Pizza.jpg
+<img src="https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/Maven_Pizza.jpg?raw=true"/>
+
 
 
