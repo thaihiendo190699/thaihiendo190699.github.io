@@ -10,7 +10,7 @@ This project is to analyze the behavior of service usage characteristics of user
 
 This dataset is in log. I have used Python to parse them into pandas data frame by the following code script:
 
-"# Folder path to log files
+#Folder path to log files
 folder_path = r'C:\Users\ASUS\Desktop\FPT test\DataSampleTest'
 
 "# Find all file txt in the folder
