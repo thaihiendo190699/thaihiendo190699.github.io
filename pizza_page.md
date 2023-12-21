@@ -1,4 +1,4 @@
-##  Plato's Pizza Operation Analysis
+##  Plato's Pizza Operations Analysis
 
 **Project description:** 
 
