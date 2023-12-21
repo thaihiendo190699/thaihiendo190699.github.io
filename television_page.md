@@ -41,7 +41,7 @@ data = pd.concat(data_frames, ignore_index=True)"
 
 <img src="https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/FPT-2.png?raw=true"/>
 
-<img src="https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/FPT-3.png?raw=true"/>
+<img src="https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/FPT-7.png?raw=true"/>
 
 <img src="https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/FPT-4.png?raw=true"/>
 
