@@ -8,11 +8,11 @@
 
 
 ---
-[Restaurant operations analysis](pizza_page.md)
+[Restaurant Operations Analysis](pizza_page.md)
 
 
 ---
-[Traffic web analysis](traffic_page.md)
+[Traffic Web Analysis](traffic_page.md)
 
 ---
 
