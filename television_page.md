@@ -36,7 +36,7 @@ for file_name in file_list:
 data = pd.concat(data_frames, ignore_index=True)"
 
 ### 2. Dashboard
-
+<img src="https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/BI3.png?raw=true"/>
 
 
 
