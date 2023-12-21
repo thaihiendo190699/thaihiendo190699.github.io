@@ -17,7 +17,7 @@ This dataset is in log. I have used Python to parse them into pandas data frame 
 
 <img src="https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/FPT-2.png?raw=true"/>
 
-<img src="https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/FPT-8.png?raw=true"/>
+<img src="https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/FPT-8.jpg?raw=true"/>
 
 <img src="https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/FPT-4.png?raw=true"/>
 
