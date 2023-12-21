@@ -10,17 +10,21 @@ This project is to analyze the behavior of service usage characteristics of user
 
 This dataset is in log. I have used Python to parse them into pandas data frame by the following code script:
 
-#Folder path to log files
+"#Folder path to log files
+
 folder_path = r'C:\Users\ASUS\Desktop\FPT test\DataSampleTest'
 
 "# Find all file txt in the folder
+
 file_pattern = folder_path + '/log*.txt'
 file_list = glob.glob(file_pattern)
 
 "# List to store DataFrame from each file
+
 data_frames = []
 
 "# Read each file and convert to DataFrame
+
 for file_name in file_list:
     data_dicts = []
     with open(file_name, 'r') as file:
@@ -33,6 +37,7 @@ for file_name in file_list:
     data_frames.append(df)
 
 "# Concat them to 1 dataframe
+
 data = pd.concat(data_frames, ignore_index=True)"
 
 ### 2. Dashboard
