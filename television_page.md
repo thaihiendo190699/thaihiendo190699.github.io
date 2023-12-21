@@ -13,14 +13,14 @@ This dataset is in log. I have used Python to parse them into pandas data frame 
 "# Folder path to log files
 folder_path = r'C:\Users\ASUS\Desktop\FPT test\DataSampleTest'
 
-# Find all file txt in the folder
+"# Find all file txt in the folder
 file_pattern = folder_path + '/log*.txt'
 file_list = glob.glob(file_pattern)
 
-# List to store DataFrame from each file
+"# List to store DataFrame from each file
 data_frames = []
 
-# Read each file and convert to DataFrame
+"# Read each file and convert to DataFrame
 for file_name in file_list:
     data_dicts = []
     with open(file_name, 'r') as file:
@@ -32,7 +32,7 @@ for file_name in file_list:
     df = pd.DataFrame(data_dicts)
     data_frames.append(df)
 
-# Concat them to 1 dataframe
+"# Concat them to 1 dataframe
 data = pd.concat(data_frames, ignore_index=True)"
 
 ### 2. Dashboard
