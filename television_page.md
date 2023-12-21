@@ -8,7 +8,7 @@ This project is to analyze the behavior of service usage characteristics of user
 
 [Data](https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/DataSampleTest.zip)
 
-This dataset is in log. I have used Python to parse them into pandas data frame by the code script
+This dataset is in log. I have used Python to parse them into pandas data frame by the [code script](https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/code-parse-log.ipynb)
 
 
 ### 2. Report
