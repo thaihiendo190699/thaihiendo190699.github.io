@@ -31,6 +31,6 @@
 
 [SQL in Bigquery practice](https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/bigquery%20project.txt)
 
-[Data processing in Python practice]
+[Data processing in Python practice](https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/KPMG_Milestone_Project_Instruction_NessX.ipynb)
 
 [Data processing in Python practice]
