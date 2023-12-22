@@ -31,4 +31,6 @@
 
 [SQL in Bigquery practice]
 
-[Excel for working hours management]
+[Data processing in Python practice]
+
+[Data processing in Python practice]
