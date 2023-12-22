@@ -29,7 +29,7 @@
 
 [A/B Testing](AB_page.md)
 
-[SQL in Bigquery practice]
+[SQL in Bigquery practice](https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/bigquery%20project.txt)
 
 [Data processing in Python practice]
 
