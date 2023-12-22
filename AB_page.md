@@ -19,4 +19,4 @@ I used Python to compare the average number of views and the number between the 
 
 Conclusion: the test helped increase the average clicks per user but no conclusion on the effect of the test on the average views.
 
-Python code in details 
+[Python code in details](https://github.com/thaihiendo190699/thaihiendo190699.github.io/blob/main/A_B_Testing_Permutation.ipynb)
